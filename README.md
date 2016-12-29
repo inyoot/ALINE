@@ -43,11 +43,13 @@ D. Deskripsi Tugas dan Ujian:
 
 E. Tata Tertib Akademik:
 
-Tata tertib akademik berlaku umum untuk semua mata kuliah di Fakultas Seni dan Desain: 
+Tata tertib akademik berlaku umum untuk semua mata kuliah di Fakultas Seni dan Desain:
+
 1.	Mengikuti tata tertib mahasiswa dan sangsi akademik pada buku Panduan Mahasiswa universitas.
 2.	Jika diperlukan kebijakan atau penyesuaian, dapat diuraikan pada kontrak perkuliahan.
-Kontrak Perkuliahan:
-(CONTOH)
+
+Kontrak Perkuliahan:  
+(CONTOH)  
     1.	Kegiatan pembelajaran dimulai pukul 10.30 WIB tepat. 
     2.	Selama proses pembelajaran berlangsung HP dimatikan/ silent. Mahasiswa tidak diijinkan menggunakan/bermain HP di kelas. 
     3.	Pengumpulan tugas ditetapkan sesuai jadwal. Bagi yang terlambat mendapat nilai 0%.
@@ -58,6 +60,7 @@ Catatan:
 Sanksi dibahas dan disepakati dalam kontrak perkuliahan pada awal pelaksanaan perkuliahan.
 
 F. Referensi:
+
 (Buku2 baru/mutakhir)
 1.	Pengarang. Tahun. Judul. Penerbit
 2.	Xxxxxx.
