@@ -28,7 +28,7 @@ C. Rancangan Pembelajaran:
 
 | Pertemuan Ke | Kemampuan akhir yang akan diharapkan |       Materi Pembelajaran      |            Bentuk Pembelajaran            | Kriteria Penilaian |         Bobot Nilai (%)         |
 |:------------:|:------------------------------------:|:------------------------------:|:-----------------------------------------:|:------------------:|:-------------------------------:|
-|       1      | - Mampu ... - Mampu ...              | - Penjelasan ... - Prinsip ... | - Ceramah/diskusi - Tugas... - Praktek... |                    | Tidak semua harus ada penilaian |
+|       1      | - Mampu ...   - Mampu ...              | - Penjelasan ... - Prinsip ... | - Ceramah/diskusi - Tugas... - Praktek... |                    | Tidak semua harus ada penilaian |
 |      2-3     | - Mampu                              |                                |                                           |                    | UTS maks 35% UAS maks 35%       |
 |              |                                      |                                |                                           |                    |                                 |
 
