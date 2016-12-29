@@ -2,7 +2,6 @@
 # Rancangan Pembelajaran
 
 Nama Mata Kuliah: Linear Algebra
-
 Kode Mata Kuliah:
 
 SKS: 2 SKS
