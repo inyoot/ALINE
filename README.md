@@ -1,9 +1,10 @@
 # ALINE
 # Rancangan Pembelajaran
+
 Nama Mata Kuliah: Linear Algebra
 Kode Mata Kuliah:
 SKS: 2 SKS
-Prasyarat Mata Kuliah: -
+Prasyarat Mata Kuliah: Tidak ada
 Semester: 2
 E-Learning: -
 
