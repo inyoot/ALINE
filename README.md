@@ -24,6 +24,7 @@ Materi yang akan disampaikan dalam matakuliah ini meliputi:
 - Aplikasi matriks dan vektor
 
 C. Rancangan Pembelajaran:
+
 | Pertemuan Ke | Kemampuan akhir yang akan diharapkan |       Materi Pembelajaran      |            Bentuk Pembelajaran            | Kriteria Penilaian |         Bobot Nilai (%)         |
 |:------------:|:------------------------------------:|:------------------------------:|:-----------------------------------------:|:------------------:|:-------------------------------:|
 |       1      | - Mampu ... - Mampu ...              | - Penjelasan ... - Prinsip ... | - Ceramah/diskusi - Tugas... - Praktek... |                    | Tidak semua harus ada penilaian |
@@ -31,6 +32,7 @@ C. Rancangan Pembelajaran:
 |              |                                      |                                |                                           |                    |                                 |
 
 D. Deskripsi Tugas dan Ujian:
+
 | Nama                 | Deskripsi                                                                                                                                                      |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tugas I Bobot ...%   | Bisa rata-rata dari beberapa Tugas... (meliputi tugas apa saja...) - Mahasiswa menyusun bahan presentasi dengan topik... - Kriteria penilaian: LIHAT RUBRIK... |
