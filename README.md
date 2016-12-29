@@ -49,7 +49,8 @@ Tata tertib akademik berlaku umum untuk semua mata kuliah di Fakultas Seni dan D
 2.	Jika diperlukan kebijakan atau penyesuaian, dapat diuraikan pada kontrak perkuliahan.
 
 Kontrak Perkuliahan:  
-(CONTOH)  
+(CONTOH)
+
     1.	Kegiatan pembelajaran dimulai pukul 10.30 WIB tepat. 
     2.	Selama proses pembelajaran berlangsung HP dimatikan/ silent. Mahasiswa tidak diijinkan menggunakan/bermain HP di kelas. 
     3.	Pengumpulan tugas ditetapkan sesuai jadwal. Bagi yang terlambat mendapat nilai 0%.
@@ -59,9 +60,9 @@ Kontrak Perkuliahan:
 Catatan:
 Sanksi dibahas dan disepakati dalam kontrak perkuliahan pada awal pelaksanaan perkuliahan.
 
-F. Referensi:
-
+F. Referensi:  
 (Buku2 baru/mutakhir)
+
 1.	Pengarang. Tahun. Judul. Penerbit
 2.	Xxxxxx.
 
