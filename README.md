@@ -61,8 +61,8 @@ Catatan:
 Sanksi dibahas dan disepakati dalam kontrak perkuliahan pada awal pelaksanaan perkuliahan.
 
 F. Referensi:  
-(Buku2 baru/mutakhir)
 
-1.	Pengarang. Tahun. Judul. Penerbit
-2.	Xxxxxx.
-
+1. Gilbert Strang, 2009, Introduction to Linear Algebra 4th Ed., Wellesley-Cambridge Press
+2. Philip N. Klein, 2013, Coding the Matrix,  Newtonian Press 
+3. James M. Van Verth and Lars M. Bishop, 2008, Essential Mathematics for Games and Interactive Applications, Morgan Kaufmann Publisher
+4. Eric Lengyel, 2012, Mathematics for 3D Game Programming and Computer Graphics 3rd Ed., Cengage Learning
