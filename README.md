@@ -9,7 +9,7 @@ Semester: 2
 E-Learning: -
 
 A. Rumusan Capaian Pembelajaran:
-- Memahami sister persamaan linear
+- Memahami sistem persamaan linear
 - Memahami matriks dan determinan serta mampu mengimplementasikannya
 - Memahami vektor, ruang vektor dan operasi-operasinya
 - Mampu mengaplikasikan matriks dan vektor
