@@ -26,42 +26,42 @@ Materi yang akan disampaikan dalam matakuliah ini meliputi:
 
 C. Rancangan Pembelajaran:
 
-1. Pengantar dan perkenalan
+1.  Pengantar dan perkenalan
 - Perkenalan dan sesi foto
 - Penjelasan Silabus dan Kontrak Perkuliahan
 - Pembentukan kelompok diskusi
 
-2. Geometri dari persamaan linier
+2.  Geometri dari persamaan linier
 - Penjelasan mengenai persamaan linear dan 2 bentuk geometri dari persamaan linear (Cartesian dan Vektor)
 - Penjelasan mengenai konsep abstraksi dan terminologi (Relasi, Fungsi, Field, Space, Vektor, Matrix)
 - Contoh aplikasi vektor dan matriks terutama dalam grafika komputer 
 
-3. Eliminasi dengan Matriks
+3.  Eliminasi dengan Matriks
 - Penjelasan langkah demi langkah dari eliminasi
 - Prinsip dari pivot dan back substitution
 - Penjelasan mengenai matriks permutasi dan transpose
 
-4. Perkalian Matriks dan Inverse
+4.  Perkalian Matriks dan Inverse
 - Prinsip perkalian matriks dan hubungannya dengan perkalian vektor
 - Penjelasan cara melakukan perkalian matriks (4 cara)
 - Prinsip inverse matriks
 
-5. Space, Vektor space, Matriks (Column/row space dan Null Space)
+5.  Space, Vektor space, Matriks (Column/row space dan Null Space)
 - Prinsip space dan contohnya untuk vektor dan matriks
 - Penjelasan mengenai dimensi, basis, dan independence
 - Empat subspace fundamental
 - Galois Field
 
-6. Menyelesaikan persamaan linier
+6.  Menyelesaikan persamaan linier
 - Penjelasan mengenai menyelesaikan Ax=0 dengan pivot variabel
 - Penjelasan mengenai menyelesaikan Ax=b dengan row reduced form
 
-7. Proyeksi
+7.  Proyeksi
 - Prinsip dari proyeksi dengan contohnya menggunakan vektor
 - Penjelasan mengenai proyeksi ke subspace dan matriks proyeksi
 - Prinsip dari tegak lurus (orthogonality dan perpendicular)
 
-8.  Determinan dan propertinya
+8.  Determinan dan propertinya
 - Penjelasan mengenai matriks ortogonal dan Gram-Schmidt
 - Penjelasan mengenai determinan dan propertinya
 - Prinsip determinan, inverse, volume dan rumus cofactor serta Cramer's Rule
@@ -84,9 +84,9 @@ C. Rancangan Pembelajaran:
 - Penjelasan mengenai normal vector dan transformasinya
 - Penjelasan mengenai  Quaternions
 
-13. Cadangan untuk menjelaskan konsep-konsep dasar seperti angka imajiner, trigonometri, dll atau jika memang lebih digunakan untuk lebih menjelaskan mengenai aplikasi dari aljabar linier
+13.  Cadangan untuk menjelaskan konsep-konsep dasar seperti angka imajiner, trigonometri, dll atau jika memang lebih digunakan untuk lebih menjelaskan mengenai aplikasi dari aljabar linier
 
-14. Review dan Evaluasi
+14.  Review dan Evaluasi
 
 D. Deskripsi Tugas dan Ujian:
 
