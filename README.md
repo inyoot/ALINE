@@ -122,3 +122,4 @@ F. Referensi:
 2. Philip N. Klein, 2013, Coding the Matrix,  Newtonian Press 
 3. James M. Van Verth and Lars M. Bishop, 2008, Essential Mathematics for Games and Interactive Applications 2nd Ed., Morgan Kaufmann Publisher
 4. Eric Lengyel, 2012, Mathematics for 3D Game Programming and Computer Graphics 3rd Ed., Cengage Learning
+5. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
