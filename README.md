@@ -92,12 +92,14 @@ C. Learning Design:
 
 D. Assignments and Exam Descriptions:
 
+
 | Name | Description |
-| ---------------------- | -------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------------------- |
+| ---- | ----------- |
 | Task I Percentage 20% | Can be the average of several Tasks ... (covering any tasks ...) - Students prepare presentation materials with topics ... - Assessment criteria: SEE RUBRIC ... |
 | UTS Exam Percentage 30% | - Written exam - Done with the right and systematic steps: 70% - Correct results achieved: 30% |
 | Task II Percentage 20% | - Students make observations on ... - Working in the same group as Task I. - Assessment criteria: VIEW RUBRIC ... |
 | UAS Exam Percentage 30% | Written exam - Done with the right and systematic steps: 70% - Correct results achieved: 30% |
+
 
 E. Tata Tertib Akademik:
 
