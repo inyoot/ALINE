@@ -1,11 +1,11 @@
 # ALINE
-# Rancangan Pembelajaran
+# Course Syllabus
 
-Nama Mata Kuliah: Linear Algebra
-Kode Mata Kuliah: DM 4201
-SKS: 2 SKS
-Prasyarat Mata Kuliah: Tidak ada 
-Semester: 2 
+Course Name: Linear Algebra  
+Course Code: DM 4201  
+Credits: 2 credits  
+Prerequesites of the course: None  
+Semester: 2  
 E-Learning: lentera.petra.ac.id
 
 A. Learning Outcomes:
@@ -101,8 +101,7 @@ D. Assignments and Exam Descriptions:
 | UAS Exam Percentage 30% | Written exam - Done with the right and systematic steps: 70% - Correct results achieved: 30% |
 
 
-E. Tata Tertib Akademik:
-
+E. Academic Rules:
 Academic rules generally apply to all courses in the Faculty of Art and Design:
 1. Following student discipline and academic sanctions in the university Student Guide book.
 2. If a policy or adjustment is needed, it can be described in the lecture contract.
